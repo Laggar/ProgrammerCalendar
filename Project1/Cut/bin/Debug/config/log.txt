@@ -1,0 +1,4 @@
+﻿[2013-9-6 23:34:23]:未能找到文件“G:\workspace\csharp\Project1\Cut\bin\Debug\log.txt”。
+[2013-9-6 23:34:47]:未能找到文件“G:\workspace\csharp\Project1\Cut\bin\Debug\log.txt”。
+
+[2013-9-6 23:38:43]:文件格式无效。

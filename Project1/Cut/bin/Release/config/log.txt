@@ -1,0 +1,24 @@
+时间:9/4/2013 4:29:23 PM
+No row can be inserted after the uncommitted new row.
+
+时间:9/4/2013 4:29:25 PM
+No row can be inserted after the uncommitted new row.
+
+时间:9/4/2013 5:03:58 PM
+Object reference not set to an instance of an object.
+
+时间:9/4/2013 5:28:08 PM
+No row can be inserted after the uncommitted new row.
+
+时间:9/4/2013 5:29:22 PM
+No row can be inserted after the uncommitted new row.
+
+[2013-9-6 23:11:08]:Access denied for user 'root'@'localhost' (using password: YES)
+
+[2013-9-6 23:33:09]:未能找到文件“G:\workspace\csharp\Project1\Cut\bin\Release\log.txt”。
+
+[2013-9-6 23:33:58]:未能找到文件“G:\workspace\csharp\Project1\Cut\bin\Release\log.txt”。
+
+[2013-9-6 23:36:51]:文件格式无效。
+
+[2013-9-6 23:37:51]:文件格式无效。

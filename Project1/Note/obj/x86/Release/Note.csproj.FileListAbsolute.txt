@@ -1,0 +1,20 @@
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\bin\Release\Note.exe
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\bin\Release\Note.pdb
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\Note.Form1.resources
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\Note.Properties.Resources.resources
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\Note.exe
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\Note\obj\x86\Release\Note.pdb
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Note\obj\x86\Release\Note.Form2.resources
+G:\workspace\csharp\Project1\Note\bin\Release\Note.exe
+G:\workspace\csharp\Project1\Note\bin\Release\Note.pdb
+G:\workspace\csharp\Project1\Note\obj\x86\Release\ResolveAssemblyReference.cache
+G:\workspace\csharp\Project1\Note\obj\x86\Release\Note.Form1.resources
+G:\workspace\csharp\Project1\Note\obj\x86\Release\Note.Form2.resources
+G:\workspace\csharp\Project1\Note\obj\x86\Release\Note.Properties.Resources.resources
+G:\workspace\csharp\Project1\Note\obj\x86\Release\GenerateResource.read.1.tlog
+G:\workspace\csharp\Project1\Note\obj\x86\Release\GenerateResource.write.1.tlog
+G:\workspace\csharp\Project1\Note\obj\x86\Release\Note.exe
+G:\workspace\csharp\Project1\Note\obj\x86\Release\Note.pdb

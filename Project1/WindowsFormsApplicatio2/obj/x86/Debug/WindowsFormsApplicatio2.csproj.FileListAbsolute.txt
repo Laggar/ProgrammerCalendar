@@ -1,0 +1,18 @@
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\bin\Debug\WindowsFormsApplicatio2.exe
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\bin\Debug\WindowsFormsApplicatio2.pdb
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.Form1.resources
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.Properties.Resources.resources
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.exe
+C:\Users\liqinghe\documents\visual studio 2010\Projects\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.pdb
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\bin\Debug\WindowsFormsApplicatio2.exe
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\bin\Debug\WindowsFormsApplicatio2.pdb
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.Form1.resources
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.Properties.Resources.resources
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.exe
+G:\workspace\csharp\Project1\WindowsFormsApplicatio2\obj\x86\Debug\WindowsFormsApplicatio2.pdb

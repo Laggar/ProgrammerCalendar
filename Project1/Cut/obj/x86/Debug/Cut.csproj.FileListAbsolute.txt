@@ -1,0 +1,32 @@
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\bin\Debug\config\init.sql
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\bin\Debug\config\db.ini
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\bin\Debug\Cut.exe.config
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\bin\Debug\Cut.exe
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\bin\Debug\Cut.pdb
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\bin\Debug\MySql.Data.dll
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.BoardCutting.resources
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.BoardInfoWindow.resources
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.DataBaseManageWindow.resources
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.Properties.Resources.resources
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.exe
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.pdb
+C:\Users\liqinghe\Documents\Visual Studio 2010\Projects\Project1\Cut\obj\x86\Debug\Cut.CuttingImageWindow.resources
+G:\workspace\csharp\Project1\Cut\bin\Debug\config\init.sql
+G:\workspace\csharp\Project1\Cut\bin\Debug\config\db.ini
+G:\workspace\csharp\Project1\Cut\bin\Debug\Cut.exe.config
+G:\workspace\csharp\Project1\Cut\bin\Debug\Cut.exe
+G:\workspace\csharp\Project1\Cut\bin\Debug\Cut.pdb
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.BoardCutting.resources
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.BoardInfoWindow.resources
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.DataBaseManageWindow.resources
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.Properties.Resources.resources
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.exe
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.pdb
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.CuttingImageWindow.resources
+G:\workspace\csharp\Project1\Cut\obj\x86\Debug\Cut.ErrorLogForm.resources
